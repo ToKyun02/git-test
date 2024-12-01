@@ -1,0 +1,1 @@
+git reset 테스트용 우선 mixed 먼저
